@@ -1,0 +1,12 @@
+{
+  "name": "تحقيق 369 (Tahqeeq 369)",
+  "description": "تطبيق متطور لمنهجية 369 للتجلي، يساعدك على تتبع أهدافك وطقوسك اليومية بتصميم عصري وتجربة مستخدم سلسة.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "Manifestation Tracking",
+    "Ritual Reminders",
+    "Multi-phase Progress"
+  ]
+}
